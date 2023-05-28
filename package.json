@@ -8,7 +8,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "homepage": "/prompt",
   "dependencies": {
     "autoprefixer": "10.4.14",
     "bcrypt": "^5.1.0",
