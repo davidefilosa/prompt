@@ -1,4 +1,5 @@
 # Fullstack app built with [Next.js](https://nextjs.org/)
 
-## [Live App](https://prompt-blond.vercel.app/)
+<a href="https://prompt-blond.vercel.app/" target="_blank">Live App</a>
+
 
